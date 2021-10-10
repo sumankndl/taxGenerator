@@ -1,2 +1,0 @@
-# taxGenerator
-Australian tax Generator 
